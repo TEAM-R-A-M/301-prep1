@@ -1,5 +1,10 @@
 > # 301-prep1
 
+*TEAM R-A-M*
+Roger Reyes
+Michael Brunette
+Andrew Schiller
+
 > ## Cooperation
 
 - What are the key strengths of each person on the team?
