@@ -1,9 +1,9 @@
 > # 301-prep1
 
 *TEAM R-A-M*
-Roger Reyes
-Michael Brunette
-Andrew Schiller
+- Roger Reyes
+- Michael Brunette
+- Andrew Schiller
 
 > ## Cooperation
 
